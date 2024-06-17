@@ -23,17 +23,17 @@ To get started with the PGP Encryption & Decryption Tool, clone the repository t
 
 git clone https://github.com/merveozan/PGPApplicationTool.git
 cd PGPApplicationTool
-
-Open the Project
+```
+### Open the Project
 
 Open the solution file (PGPApplicationTool.sln) in Visual Studio.
-Build and Run
+#### Build and Run
 
     Build the Application: Build the project by navigating to Build -> Build Solution in Visual Studio.
     Run the Application: Start the application by pressing F5 or clicking Start Debugging in Visual Studio.
 
-Usage Instructions
+#### Usage Instructions
 
-    Enter Text: Type the text you want to encrypt in the Input Text box.
-    Encrypt Text: Click the Encrypt button to encrypt the text. The encrypted text will be displayed in the Encrypted Text box.
-    Decrypt Text: With encrypted text present, click the Decrypt button. The decrypted text will appear in the Decrypted Text box.
+    - Enter Text: Type the text you want to encrypt in the Input Text box.
+    - Encrypt Text: Click the Encrypt button to encrypt the text. The encrypted text will be displayed in the Encrypted Text box.
+    - Decrypt Text: With encrypted text present, click the Decrypt button. The decrypted text will appear in the Decrypted Text box.
