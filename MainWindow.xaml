@@ -1,0 +1,17 @@
+﻿<Window x:Class="PGPApplicationTool.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Encryption &amp; Decryption Tool" Height="450" Width="800">
+    <StackPanel>
+        <!-- TextBox where the user will enter the text to be encrypted. -->
+        <TextBox x:Name="InputText" Height="100" Margin="10" Text="" TextChanged="InputText_TextChanged"/>
+        <!-- Encrypt button -->
+        <Button Content="Encrypt" Click="EncryptMessage" Margin="10"/>
+        <!-- TextBox to display the encrypted text -->
+        <TextBox x:Name="EncryptedText" Height="100" Margin="10"/>
+        <!-- Decrypt button -->
+        <Button Content="Decrypt" Click="DecryptMessage" Margin="10"/>
+        <!-- TextBox to display the decrypted text -->
+        <TextBox x:Name="DecryptedText" Height="100" Margin="10"/>
+    </StackPanel>
+</Window>
