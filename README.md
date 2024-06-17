@@ -11,7 +11,7 @@ The PGP Encryption & Decryption Tool is a Windows Presentation Foundation (WPF) 
 ## Getting Started
 
 ### Prerequisites
-- .NET Core 3.1 SDK or later
+- .NET Core 
 - Visual Studio 2019 or later (with the WPF development component installed)
 
 ### Installation
