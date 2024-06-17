@@ -28,12 +28,10 @@ cd PGPApplicationTool
 
 Open the solution file (PGPApplicationTool.sln) in Visual Studio.
 #### Build and Run
-
-    Build the Application: Build the project by navigating to Build -> Build Solution in Visual Studio.
-    Run the Application: Start the application by pressing F5 or clicking Start Debugging in Visual Studio.
+Build the Application: Build the project by navigating to Build -> Build Solution in Visual Studio.
+Run the Application: Start the application by pressing F5 or clicking Start Debugging in Visual Studio.
 
 #### Usage Instructions
-
-    - Enter Text: Type the text you want to encrypt in the Input Text box.
-    - Encrypt Text: Click the Encrypt button to encrypt the text. The encrypted text will be displayed in the Encrypted Text box.
-    - Decrypt Text: With encrypted text present, click the Decrypt button. The decrypted text will appear in the Decrypted Text box.
+- Enter Text: Type the text you want to encrypt in the Input Text box.
+- Encrypt Text: Click the Encrypt button to encrypt the text. The encrypted text will be displayed in the Encrypted Text box.
+- Decrypt Text: With encrypted text present, click the Decrypt button. The decrypted text will appear in the Decrypted Text box.
